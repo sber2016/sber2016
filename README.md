@@ -19,7 +19,7 @@ Ich freue mich immer über neue Mitwirkende und Feedback zu meinen Projekten, in
 ## Ich benutze häufig folgende Tools und Technologien:
 
 - **Sprachen:** Python, Bash etc.
-- **Frameworks:** React, FastAPI, Tauri etc.
+- **Frameworks:** React, FastAPI, Tauri, Langchain, Flowise, n8n etc.
 - **Datenbanken:** PostgreSQL, InfluxDB 
 - **Tools:** Docker, Apache Airflow, Grafana, Prometheus, Git, CI/CD
 - **Cloud:** Azure
