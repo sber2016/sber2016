@@ -24,6 +24,10 @@ Ich freue mich immer über neue Mitwirkende und Feedback zu meinen Projekten, in
 - **Tools:** Docker, Apache Airflow, Grafana, Prometheus, Git, CI/CD
 - **Cloud:** Azure
 
+## Kanal Stats
+
+![Deine GitHub-Stats](https://github-readme-stats.vercel.app/api?username=sber2016&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
 
 Danke, dass du dir mein Profil angesehen hast! Viel Spaß beim Entdecken meiner Projekte. 
 
